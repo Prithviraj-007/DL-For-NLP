@@ -1,0 +1,3042 @@
+[
+    {
+        "id": "451287",
+        "image": "451287.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " Who is the artist of the album leaf?"
+            },
+            {
+                "from": "gpt",
+                "value": " Nanha"
+            },
+            {
+                "from": "human",
+                "value": " When was the verso of the album leaf created?"
+            },
+            {
+                "from": "gpt",
+                "value": " ca. 1610\u201315"
+            },
+            {
+                "from": "human",
+                "value": " What is the medium used in the album leaf?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink, opaque watercolor, and gold on paper"
+            },
+            {
+                "from": "human",
+                "value": " What was the primary purpose of Sultan 'Ali of Mashhad's calligraphy?"
+            },
+            {
+                "from": "gpt",
+                "value": " Poetry"
+            }
+        ]
+    },
+    {
+        "id": "458439",
+        "image": "458439.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the type of object described?"
+            },
+            {
+                "from": "gpt",
+                "value": " Folio from a manuscript"
+            },
+            {
+                "from": "human",
+                "value": " What is the subject matter of the manuscript?"
+            },
+            {
+                "from": "gpt",
+                "value": " Quran"
+            },
+            {
+                "from": "human",
+                "value": " What era did the manuscript originate from?"
+            },
+            {
+                "from": "gpt",
+                "value": " 14th century"
+            },
+            {
+                "from": "human",
+                "value": " What specific type of script is used in the manuscript?"
+            },
+            {
+                "from": "gpt",
+                "value": " Muhaqqaq script, with interlinear Persian translation in naskhi script"
+            }
+        ]
+    },
+    {
+        "id": "453129",
+        "image": "453129.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What type of object is it?"
+            },
+            {
+                "from": "gpt",
+                "value": " Folio from an illustrated manuscript"
+            },
+            {
+                "from": "human",
+                "value": " What does the painting depict?"
+            },
+            {
+                "from": "gpt",
+                "value": " A monkey escaping to the safety of a fig tree"
+            },
+            {
+                "from": "human",
+                "value": " From which manuscript is the folio taken?"
+            },
+            {
+                "from": "gpt",
+                "value": " Kalila wa Dimna"
+            },
+            {
+                "from": "human",
+                "value": " What is the artistic style of the painting?"
+            },
+            {
+                "from": "gpt",
+                "value": " Mamluk Egyptian with influences from Ottoman and Safavid art"
+            }
+        ]
+    },
+    {
+        "id": "452780",
+        "image": "452780.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the subject matter of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " It depicts a series of masks in a frieze."
+            },
+            {
+                "from": "human",
+                "value": " When was the art created?"
+            },
+            {
+                "from": "gpt",
+                "value": " 15th\u2013early 16th century."
+            },
+            {
+                "from": "human",
+                "value": " What is the material used for the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Sandstone."
+            },
+            {
+                "from": "human",
+                "value": " What is the geographic origin of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Mathura region, India, as indicated by the red sandstone."
+            }
+        ]
+    },
+    {
+        "id": "446882",
+        "image": "446882.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art object?"
+            },
+            {
+                "from": "gpt",
+                "value": " Fragment of a White-Ground Velvet Carpet"
+            },
+            {
+                "from": "human",
+                "value": " What materials were used to create the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Silk and linen, using the cut velvet technique"
+            },
+            {
+                "from": "human",
+                "value": " What period does the art belong to?"
+            },
+            {
+                "from": "gpt",
+                "value": " 17th century"
+            },
+            {
+                "from": "human",
+                "value": " What is the significance of the floral motif in the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " The large flower in the center relates to the technique of pietra dura, where precious stones depicting floral motifs are inlaid into marble in architectural settings."
+            }
+        ]
+    },
+    {
+        "id": "454619",
+        "image": "454619.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " Who is the artist of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Bhavanidas"
+            },
+            {
+                "from": "human",
+                "value": " What type of art is it?"
+            },
+            {
+                "from": "gpt",
+                "value": " Illustrated single work"
+            },
+            {
+                "from": "human",
+                "value": " What medium is used in the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Opaque watercolor and gold on paper"
+            },
+            {
+                "from": "human",
+                "value": " When was the artwork created?"
+            },
+            {
+                "from": "gpt",
+                "value": " ca. 1705\u201320"
+            }
+        ]
+    },
+    {
+        "id": "446767",
+        "image": "446767.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What type of art is it?"
+            },
+            {
+                "from": "gpt",
+                "value": " Jewelry"
+            },
+            {
+                "from": "human",
+                "value": " What is the necklace made of?"
+            },
+            {
+                "from": "gpt",
+                "value": " Gold, diamonds, colorless sapphires, rubies, imitation emeralds, and pearls"
+            },
+            {
+                "from": "human",
+                "value": " When was the necklace created?"
+            },
+            {
+                "from": "gpt",
+                "value": " 18th\u201319th century"
+            },
+            {
+                "from": "human",
+                "value": " What is the significance of jewelry in Mughal culture?"
+            },
+            {
+                "from": "gpt",
+                "value": " The wearing and appreciation of jewelry was considered an art in itself, and it was worn by all members of society."
+            }
+        ]
+    },
+    {
+        "id": "448526",
+        "image": "448526.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What type of art is this?"
+            },
+            {
+                "from": "gpt",
+                "value": " Textile fragment"
+            },
+            {
+                "from": "human",
+                "value": " When was this art created?"
+            },
+            {
+                "from": "gpt",
+                "value": " 13th\u201314th century"
+            },
+            {
+                "from": "human",
+                "value": " Where was this art found?"
+            },
+            {
+                "from": "gpt",
+                "value": " Fustat, Egypt"
+            },
+            {
+                "from": "human",
+                "value": " What techniques were used to create the designs on this art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Block-printing and mordant dyeing"
+            }
+        ]
+    },
+    {
+        "id": "500775",
+        "image": "500775.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Duff"
+            },
+            {
+                "from": "human",
+                "value": " When was the art created?"
+            },
+            {
+                "from": "gpt",
+                "value": " Late 19th century"
+            },
+            {
+                "from": "human",
+                "value": " What is the medium used to create the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Wood"
+            },
+            {
+                "from": "human",
+                "value": " What classification does the art fall under?"
+            },
+            {
+                "from": "gpt",
+                "value": " Membranophone-single-headed / frame drum"
+            }
+        ]
+    },
+    {
+        "id": "872977",
+        "image": "872977.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Dagger with Yali Hilt"
+            },
+            {
+                "from": "human",
+                "value": " What is the classification of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Arms and Armor"
+            },
+            {
+                "from": "human",
+                "value": " When was the art created?"
+            },
+            {
+                "from": "gpt",
+                "value": " 1800\u20131850"
+            },
+            {
+                "from": "human",
+                "value": " What materials were used to create the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Hilt: Ivory; carved and inlaid with glass, ruby, spinel, and emerald"
+            }
+        ]
+    },
+    {
+        "id": "453134",
+        "image": "453134.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What does the manuscript contain?"
+            },
+            {
+                "from": "gpt",
+                "value": " It contains seventy-eight paintings and many text folios telling the famous tales of the jackals Kalila and Dimna."
+            },
+            {
+                "from": "human",
+                "value": " When was the manuscript created?"
+            },
+            {
+                "from": "gpt",
+                "value": " The manuscript was created in the second quarter of the 16th century."
+            },
+            {
+                "from": "human",
+                "value": " What is the medium of the manuscript?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink and opaque watercolor on paper."
+            },
+            {
+                "from": "human",
+                "value": " Where is the manuscript originally from?"
+            },
+            {
+                "from": "gpt",
+                "value": " It is suggested that the manuscript was originally from Mamluk Egypt and later copied in Sultanate Gujarat."
+            }
+        ]
+    },
+    {
+        "id": "453074",
+        "image": "453074.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the title of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " \"The Merchant Listens to the Workman Playing Cymbals\", Folio from a Kalila wa Dimna"
+            },
+            {
+                "from": "human",
+                "value": " What is the medium used to create the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink and opaque watercolor on paper"
+            },
+            {
+                "from": "human",
+                "value": " When was the art created?"
+            },
+            {
+                "from": "gpt",
+                "value": " Second quarter 16th century"
+            },
+            {
+                "from": "human",
+                "value": " What is the origin of the stories depicted in the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ancient Indian animal fables, the Panchatantra written by Vidyapati (Bidpai)"
+            }
+        ]
+    },
+    {
+        "id": "500717",
+        "image": "500717.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": " Sarod"
+            },
+            {
+                "from": "human",
+                "value": " To what classification does the instrument belong?"
+            },
+            {
+                "from": "gpt",
+                "value": " Chordophone-Lute-plucked-unfretted"
+            },
+            {
+                "from": "human",
+                "value": " When was the sarod made?"
+            },
+            {
+                "from": "gpt",
+                "value": " ca. 1885"
+            },
+            {
+                "from": "human",
+                "value": " What is the purpose of the instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": " To accompany singers and as a solo instrument in north India"
+            }
+        ]
+    },
+    {
+        "id": "452777",
+        "image": "452777.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Bottle with Gilded Flowers"
+            },
+            {
+                "from": "human",
+                "value": " When was the artwork created?"
+            },
+            {
+                "from": "gpt",
+                "value": " 18th century"
+            },
+            {
+                "from": "human",
+                "value": " What materials were used to create the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Glass, purple; mold blown, gilded"
+            },
+            {
+                "from": "human",
+                "value": " What is the inspiration behind the design of this artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Square bottles of this type derive from Dutch and German molded vessels, which would have been imported after the Dutch East India Company established a trade factory in Gujarat in 1618."
+            }
+        ]
+    },
+    {
+        "id": "448466",
+        "image": "448466.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Illustrated album leaf: \"Hamid Bhakari Punished by Akbar\", Folio from a Manuscript of the Akbarnama. Folio from the Davis Album"
+            },
+            {
+                "from": "human",
+                "value": " Who wrote and in which year?"
+            },
+            {
+                "from": "gpt",
+                "value": " Written by the courtier Abu\\'l Fazl between 1589 and 1598."
+            },
+            {
+                "from": "human",
+                "value": " What is the subject of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " The focus of the painting appears to be a royal hunting expedition, but in the lower left corner one finds the true subject: the courtier Hamid Bhakari gets punished by the emperor."
+            },
+            {
+                "from": "human",
+                "value": " What is the classification of this art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Codices"
+            }
+        ]
+    },
+    {
+        "id": "451281",
+        "image": "451281.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " Who was the artist of the album leaf?"
+            },
+            {
+                "from": "gpt",
+                "value": " Hashim"
+            },
+            {
+                "from": "human",
+                "value": " What is the medium of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink, opaque watercolor, and gold on paper"
+            },
+            {
+                "from": "human",
+                "value": " When was the recto of the album leaf created?"
+            },
+            {
+                "from": "gpt",
+                "value": " ca. 1620"
+            },
+            {
+                "from": "human",
+                "value": " Who is depicted in the album leaf portrait?"
+            },
+            {
+                "from": "gpt",
+                "value": " Mulla Muhammad Khan Vali of Bijapur"
+            }
+        ]
+    },
+    {
+        "id": "453210",
+        "image": "453210.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Buffaloes in Combat"
+            },
+            {
+                "from": "human",
+                "value": " Who created the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Miskin"
+            },
+            {
+                "from": "human",
+                "value": " When was the artwork created?"
+            },
+            {
+                "from": "gpt",
+                "value": " Late 16th century"
+            },
+            {
+                "from": "human",
+                "value": " What materials were used to create the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink, watercolor, and gold on paper"
+            }
+        ]
+    },
+    {
+        "id": "451266",
+        "image": "451266.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " \"A Youth Fallen From a Tree\", Folio from the Shah Jahan Album"
+            },
+            {
+                "from": "human",
+                "value": " Who is the artist of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Aqa Riza"
+            },
+            {
+                "from": "human",
+                "value": " What is the medium used to create the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink, opaque watercolor, and gold on paper"
+            },
+            {
+                "from": "human",
+                "value": " What is the approximate date range when the artwork was created?"
+            },
+            {
+                "from": "gpt",
+                "value": " verso: ca. 1610; recto: ca. 1530"
+            }
+        ]
+    },
+    {
+        "id": "448518",
+        "image": "448518.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the title of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Textile Fragment"
+            },
+            {
+                "from": "human",
+                "value": " When was the artwork created?"
+            },
+            {
+                "from": "gpt",
+                "value": " 13th\u201314th century"
+            },
+            {
+                "from": "human",
+                "value": " What materials were used to create the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Cotton, plain weave; block-printed and/or painted, mordant dyed"
+            },
+            {
+                "from": "human",
+                "value": " Where was the artwork discovered?"
+            },
+            {
+                "from": "gpt",
+                "value": " Near Fustat, Egypt"
+            }
+        ]
+    },
+    {
+        "id": "448473",
+        "image": "448473.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What's the title of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " \"Encampment in the Hills: Jahangir with Falcon\""
+            },
+            {
+                "from": "human",
+                "value": " Who is the artist of this art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Abu'l Fazl"
+            },
+            {
+                "from": "human",
+                "value": " When was this art created?"
+            },
+            {
+                "from": "gpt",
+                "value": " Early 17th century"
+            },
+            {
+                "from": "human",
+                "value": " What medium and materials were used to create this art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink, opaque watercolor, and gold on paper"
+            }
+        ]
+    },
+    {
+        "id": "454097",
+        "image": "454097.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Hair Ornament (Nagar)"
+            },
+            {
+                "from": "human",
+                "value": " When was the art created?"
+            },
+            {
+                "from": "gpt",
+                "value": " 19th century"
+            },
+            {
+                "from": "human",
+                "value": " What symbols can be found in the ornament's iconography?"
+            },
+            {
+                "from": "gpt",
+                "value": " Lakshmi, Vishnu, Ananta Sesha, kirtimukha"
+            },
+            {
+                "from": "human",
+                "value": " Where did the ornament originate from?"
+            },
+            {
+                "from": "gpt",
+                "value": " South India"
+            }
+        ]
+    },
+    {
+        "id": "500759",
+        "image": "500759.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the musical instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": " Sitar"
+            },
+            {
+                "from": "human",
+                "value": " When was the sitar created?"
+            },
+            {
+                "from": "gpt",
+                "value": " Mid-19th century"
+            },
+            {
+                "from": "human",
+                "value": " What type of material is the sitar made from?"
+            },
+            {
+                "from": "gpt",
+                "value": " Wood"
+            },
+            {
+                "from": "human",
+                "value": " What is the significant difference between the early sitar and the modern instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": " The early sitar did not have sympathetic strings."
+            }
+        ]
+    },
+    {
+        "id": "659901",
+        "image": "659901.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " Who created the Cutout?"
+            },
+            {
+                "from": "gpt",
+                "value": " Lockwood de Forest"
+            },
+            {
+                "from": "human",
+                "value": " What material is the Cutout made of?"
+            },
+            {
+                "from": "gpt",
+                "value": " Brass"
+            },
+            {
+                "from": "human",
+                "value": " What was Lockwood de Forest's inspiration for the Cutout?"
+            },
+            {
+                "from": "gpt",
+                "value": " Indian arts and crafts"
+            },
+            {
+                "from": "human",
+                "value": " For what purpose were these cutouts originally used?"
+            },
+            {
+                "from": "gpt",
+                "value": " As ornament on architecture or furniture"
+            }
+        ]
+    },
+    {
+        "id": "454344",
+        "image": "454344.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the title of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " \"Rama Receives Sugriva and Jambavat, the Monkey and Bear Kings\", Folio from a Ramayana"
+            },
+            {
+                "from": "human",
+                "value": " What is the medium used in the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink, opaque watercolor, and gold on paper"
+            },
+            {
+                "from": "human",
+                "value": " What is the size of the painting?"
+            },
+            {
+                "from": "gpt",
+                "value": " H. 10 7/8 in. (27.6 cm) x W. 7 1/2 in. (19.1 cm)"
+            },
+            {
+                "from": "human",
+                "value": " Why was the page probably made?"
+            },
+            {
+                "from": "gpt",
+                "value": " The page was probably made for the Mughal courtier Bir Singh Deo of Datia."
+            }
+        ]
+    },
+    {
+        "id": "453350",
+        "image": "453350.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the title of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Interior of the Hammam at the Red Fort, Delhi, Furnished According to English Taste"
+            },
+            {
+                "from": "human",
+                "value": " What is the medium of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Opaque watercolor on paper"
+            },
+            {
+                "from": "human",
+                "value": " When was the art created?"
+            },
+            {
+                "from": "gpt",
+                "value": " ca. 1830\u201340"
+            },
+            {
+                "from": "human",
+                "value": " What is the classification of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Codices"
+            }
+        ]
+    },
+    {
+        "id": "448677",
+        "image": "448677.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Carpet Fragment"
+            },
+            {
+                "from": "human",
+                "value": " Around what year was the carpet created?"
+            },
+            {
+                "from": "gpt",
+                "value": " ca. 1650"
+            },
+            {
+                "from": "human",
+                "value": " Where was the carpet likely made?"
+            },
+            {
+                "from": "gpt",
+                "value": " Kashmir or Lahore"
+            },
+            {
+                "from": "human",
+                "value": " What is the carpet made of?"
+            },
+            {
+                "from": "gpt",
+                "value": " Silk, pashmina wool, and asymmetrically knotted pile"
+            }
+        ]
+    },
+    {
+        "id": "500909",
+        "image": "500909.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the purpose of the sruti upanga?"
+            },
+            {
+                "from": "gpt",
+                "value": " It was used as a drone accompaniment, providing a continuous note in the background."
+            },
+            {
+                "from": "human",
+                "value": " Who played the sruti upanga?"
+            },
+            {
+                "from": "gpt",
+                "value": " It was played by male musicians who accompanied devadasi, female dancers who dedicated their lives to a deity."
+            },
+            {
+                "from": "human",
+                "value": " What caused the decline of the sruti upanga in Tamil Nadu?"
+            },
+            {
+                "from": "gpt",
+                "value": " The anti-nautch campaign and the Madras Devadasis Prevention of Dedication Act of 1947, which criminalized the devadasi practice."
+            },
+            {
+                "from": "human",
+                "value": " Where was the sruti upanga still in use in the early 1980s?"
+            },
+            {
+                "from": "gpt",
+                "value": " In Andhra Pradesh (Central India), where it was used as a drone instrument to accompany Telugu epic singers."
+            }
+        ]
+    },
+    {
+        "id": "453258",
+        "image": "453258.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " Who is the artist responsible for this artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Maulana Nur al-Din `Abd al-Rahman Jami"
+            },
+            {
+                "from": "human",
+                "value": " What is the physical size of the border of this artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " H. 11 7/8 in. (30.2 cm) x W. 6 5/16 in. (16 cm)"
+            },
+            {
+                "from": "human",
+                "value": " What is the title page of this folio from?"
+            },
+            {
+                "from": "gpt",
+                "value": " Panj Ganj (The Five Treasures) of Jami"
+            },
+            {
+                "from": "human",
+                "value": " When did the border of this artwork get added?"
+            },
+            {
+                "from": "gpt",
+                "value": " First quarter 17th century"
+            }
+        ]
+    },
+    {
+        "id": "446801",
+        "image": "446801.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the artifact?"
+            },
+            {
+                "from": "gpt",
+                "value": " Amulet Case"
+            },
+            {
+                "from": "human",
+                "value": " When was the amulet case made?"
+            },
+            {
+                "from": "gpt",
+                "value": " 19th century"
+            },
+            {
+                "from": "human",
+                "value": " What materials were used to make the amulet case?"
+            },
+            {
+                "from": "gpt",
+                "value": " Gold and coral"
+            },
+            {
+                "from": "human",
+                "value": " What is the significance of the elongated shape of the amulet?"
+            },
+            {
+                "from": "gpt",
+                "value": " The shape suggests it was used to hold rolled-up paper inscribed with holy words."
+            }
+        ]
+    },
+    {
+        "id": "446707",
+        "image": "446707.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art object?"
+            },
+            {
+                "from": "gpt",
+                "value": " Anklet, One of a Pair"
+            },
+            {
+                "from": "human",
+                "value": " When was the art object created?"
+            },
+            {
+                "from": "gpt",
+                "value": " 19th century"
+            },
+            {
+                "from": "human",
+                "value": " What is the material of the art object?"
+            },
+            {
+                "from": "gpt",
+                "value": " Silver"
+            },
+            {
+                "from": "human",
+                "value": " Who was the former owner of the art object?"
+            },
+            {
+                "from": "gpt",
+                "value": " Lockwood de Forest"
+            }
+        ]
+    },
+    {
+        "id": "446739",
+        "image": "446739.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Armband (Bazuband), One of a Pair"
+            },
+            {
+                "from": "human",
+                "value": " What is the material used to make the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Gold, gemstones, and enamel"
+            },
+            {
+                "from": "human",
+                "value": " Where was the art formerly located?"
+            },
+            {
+                "from": "gpt",
+                "value": " Collection of American artist and designer Lockwood de Forest"
+            },
+            {
+                "from": "human",
+                "value": " What is the primary function of bazubands?"
+            },
+            {
+                "from": "gpt",
+                "value": " Worn as an important element in a suite of jewelry worn by men on the upper bicep"
+            }
+        ]
+    },
+    {
+        "id": "446646",
+        "image": "446646.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the material used in the carpet?"
+            },
+            {
+                "from": "gpt",
+                "value": " Silk (warp and weft), pashmina wool (pile)"
+            },
+            {
+                "from": "human",
+                "value": " Where was the carpet made?"
+            },
+            {
+                "from": "gpt",
+                "value": " Kashmir or Lahore"
+            },
+            {
+                "from": "human",
+                "value": " What type of knotting technique was used in the carpet?"
+            },
+            {
+                "from": "gpt",
+                "value": " Asymmetrically knotted pile"
+            },
+            {
+                "from": "human",
+                "value": " Why does the increased number of knots in the carpet contribute to its quality?"
+            },
+            {
+                "from": "gpt",
+                "value": " It increases the suppleness and softness of the carpet, allowing for more intricate patterns."
+            }
+        ]
+    },
+    {
+        "id": "453133",
+        "image": "453133.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What type of art is described?"
+            },
+            {
+                "from": "gpt",
+                "value": " Folio from an illustrated manuscript"
+            },
+            {
+                "from": "human",
+                "value": " What is the title of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " \"The Trapped Cat and the Frightened Mouse (Rat ?)\", Folio from a Kalila wa Dimna"
+            },
+            {
+                "from": "human",
+                "value": " What materials were used to create the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink and opaque watercolor on paper"
+            },
+            {
+                "from": "human",
+                "value": " Where is it believed that the manuscript was originally copied from?"
+            },
+            {
+                "from": "gpt",
+                "value": " Sultanate Gujarat"
+            }
+        ]
+    },
+    {
+        "id": "503672",
+        "image": "503672.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the material used to make the conch shell?"
+            },
+            {
+                "from": "gpt",
+                "value": " Shell (Turbinella pyrum), brass, and wax."
+            },
+            {
+                "from": "human",
+                "value": " What is the religious significance of the conch shell in Hinduism?"
+            },
+            {
+                "from": "gpt",
+                "value": " It is associated with Vishnu, the Lord of the Waters."
+            },
+            {
+                "from": "human",
+                "value": " What type of fitting is attached to the conch shell?"
+            },
+            {
+                "from": "gpt",
+                "value": " Brass fittings, which indicate a link to Shaivite ritual."
+            },
+            {
+                "from": "human",
+                "value": " What symbols and figures are depicted on the decorated conical end of the conch shell?"
+            },
+            {
+                "from": "gpt",
+                "value": " Rows of nagas (serpent divinities), wreath-bearing kirtimukhas (\"Faces of Glory\"), a yoni design (symbol of female energy), and the head of a makara (elephant/crocodile monster) with a yali (elephant/lion monster) striding atop it."
+            }
+        ]
+    },
+    {
+        "id": "453195",
+        "image": "453195.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Textile Fragment with a Repeating Pattern of Interlocked Tulips and Poppies"
+            },
+            {
+                "from": "human",
+                "value": " When was the textile made?"
+            },
+            {
+                "from": "gpt",
+                "value": " ca. 1628\u201358"
+            },
+            {
+                "from": "human",
+                "value": " Where was the textile produced?"
+            },
+            {
+                "from": "gpt",
+                "value": " Exact location uncertain, either India or Persia"
+            },
+            {
+                "from": "human",
+                "value": " What type of material is the textile made of?"
+            },
+            {
+                "from": "gpt",
+                "value": " Silk, metal wrapped thread; plain weave, brocaded"
+            }
+        ]
+    },
+    {
+        "id": "446744",
+        "image": "446744.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the material used to make the armlet?"
+            },
+            {
+                "from": "gpt",
+                "value": " Gold and precious stones"
+            },
+            {
+                "from": "human",
+                "value": " When is the armlet believed to have been made?"
+            },
+            {
+                "from": "gpt",
+                "value": " 19th century"
+            },
+            {
+                "from": "human",
+                "value": " Who was the previous owner of the armlet?"
+            },
+            {
+                "from": "gpt",
+                "value": " Lockwood de Forest"
+            },
+            {
+                "from": "human",
+                "value": " Where was the armlet purchased?"
+            },
+            {
+                "from": "gpt",
+                "value": " India"
+            }
+        ]
+    },
+    {
+        "id": "446787",
+        "image": "446787.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Hair / Ear Ornament, One of a Pair"
+            },
+            {
+                "from": "human",
+                "value": " When was the art created?"
+            },
+            {
+                "from": "gpt",
+                "value": " 19th century"
+            },
+            {
+                "from": "human",
+                "value": " What materials were used to make the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Gold and silver, imitation pearl"
+            },
+            {
+                "from": "human",
+                "value": " What is the purpose of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " The ornaments were worn as part of an elaborate ensemble of jewels adorning the head and body of a woman."
+            }
+        ]
+    },
+    {
+        "id": "453214",
+        "image": "453214.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the object's name?"
+            },
+            {
+                "from": "gpt",
+                "value": " Game board"
+            },
+            {
+                "from": "human",
+                "value": " On which side of the board is chess played?"
+            },
+            {
+                "from": "gpt",
+                "value": " The side on display"
+            },
+            {
+                "from": "human",
+                "value": " What is the material and technique used in the creation of the game board?"
+            },
+            {
+                "from": "gpt",
+                "value": " Wood; painted, varnished, and gilded"
+            },
+            {
+                "from": "human",
+                "value": " How many different flower varieties can be identified on the board?"
+            },
+            {
+                "from": "gpt",
+                "value": " Eight"
+            }
+        ]
+    },
+    {
+        "id": "454343",
+        "image": "454343.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the title of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Album Page with Cut-Paper Decoration"
+            },
+            {
+                "from": "human",
+                "value": " When was the art created?"
+            },
+            {
+                "from": "gpt",
+                "value": " ca. 1625\u201350"
+            },
+            {
+                "from": "human",
+                "value": " What materials were used to create the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Cut paper, opaque watercolor, and gold"
+            },
+            {
+                "from": "human",
+                "value": " What is the main subject matter of the decoration on the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Flowering plants, water birds, and a deer"
+            }
+        ]
+    },
+    {
+        "id": "448936",
+        "image": "448936.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art piece?"
+            },
+            {
+                "from": "gpt",
+                "value": " Tent Lining Fragment"
+            },
+            {
+                "from": "human",
+                "value": " When was the art piece created?"
+            },
+            {
+                "from": "gpt",
+                "value": " 18th century"
+            },
+            {
+                "from": "human",
+                "value": " What materials were used to make the art piece?"
+            },
+            {
+                "from": "gpt",
+                "value": " Cotton, silk"
+            },
+            {
+                "from": "human",
+                "value": " What was the intended use of the art piece?"
+            },
+            {
+                "from": "gpt",
+                "value": " To adorn the interior of a tent, providing a decorative element to a temporary living space used during campaigns or seasonal migrations."
+            }
+        ]
+    },
+    {
+        "id": "446581",
+        "image": "446581.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the title of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Portrait of Emperor Jahangir"
+            },
+            {
+                "from": "human",
+                "value": " When was the art created?"
+            },
+            {
+                "from": "gpt",
+                "value": " ca. 1615\u201320"
+            },
+            {
+                "from": "human",
+                "value": " What materials were used to create the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink, opaque watercolor, and gold on paper"
+            },
+            {
+                "from": "human",
+                "value": " What is a distinctive feature of the portraiture style during Jahangir's reign?"
+            },
+            {
+                "from": "gpt",
+                "value": " The influence of European prints, leading to a more accurate and realistic depiction of the emperor."
+            }
+        ]
+    },
+    {
+        "id": "500713",
+        "image": "500713.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What type of musical instrument is B\u0101y\u0101?"
+            },
+            {
+                "from": "gpt",
+                "value": " A kettle drum, used in a set of drums accompanying North Indian classical music and dance."
+            },
+            {
+                "from": "human",
+                "value": " What materials are used to make B\u0101y\u0101?"
+            },
+            {
+                "from": "gpt",
+                "value": " Wood and skin."
+            },
+            {
+                "from": "human",
+                "value": " During which century was the B\u0101y\u0101 exhibited?"
+            },
+            {
+                "from": "gpt",
+                "value": " Late 19th century."
+            },
+            {
+                "from": "human",
+                "value": " What is the significance of the size difference between the tabl\u0101 and b\u0101y\u0101 in modern sets?"
+            },
+            {
+                "from": "gpt",
+                "value": " Modern tabl\u0101 sets feature smaller right-hand tabl\u0101 drums and larger left-hand b\u0101y\u0101 drums, reflecting their different roles and a change in musical practices compared to the 19th century."
+            }
+        ]
+    },
+    {
+        "id": "448278",
+        "image": "448278.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " Who is depicted in the portrait?"
+            },
+            {
+                "from": "gpt",
+                "value": " Emperor Akbar"
+            },
+            {
+                "from": "human",
+                "value": " When was the portrait created?"
+            },
+            {
+                "from": "gpt",
+                "value": " Early 17th century"
+            },
+            {
+                "from": "human",
+                "value": " What medium was used to create the portrait?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink and opaque watercolor on paper"
+            },
+            {
+                "from": "human",
+                "value": " What are the dimensions of the portrait including the frame?"
+            },
+            {
+                "from": "gpt",
+                "value": " Height: 21 3/4 inches (54.6 cm), Width: 16 3/4 inches (42.5 cm)"
+            }
+        ]
+    },
+    {
+        "id": "501903",
+        "image": "501903.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the object's name?"
+            },
+            {
+                "from": "gpt",
+                "value": " Bell"
+            },
+            {
+                "from": "human",
+                "value": " What century was the bell created?"
+            },
+            {
+                "from": "gpt",
+                "value": " 19th century"
+            },
+            {
+                "from": "human",
+                "value": " What materials were used to create the bell?"
+            },
+            {
+                "from": "gpt",
+                "value": " Brass and glass"
+            },
+            {
+                "from": "human",
+                "value": " What was the potential purpose of the bell?"
+            },
+            {
+                "from": "gpt",
+                "value": " To honor Vishnu or Shiva"
+            }
+        ]
+    },
+    {
+        "id": "447821",
+        "image": "447821.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art piece?"
+            },
+            {
+                "from": "gpt",
+                "value": " Hanging or Bed Cover"
+            },
+            {
+                "from": "human",
+                "value": " When was the art piece made?"
+            },
+            {
+                "from": "gpt",
+                "value": " Late 18th century"
+            },
+            {
+                "from": "human",
+                "value": " What technique was used to create the art piece?"
+            },
+            {
+                "from": "gpt",
+                "value": " Kalamkari dyeing"
+            },
+            {
+                "from": "human",
+                "value": " What was the intended use of the art piece?"
+            },
+            {
+                "from": "gpt",
+                "value": " Bed cover or wall hanging"
+            }
+        ]
+    },
+    {
+        "id": "448465",
+        "image": "448465.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Illustrated album leaf: \"Portrait of a Noble in Gauzy White Costume\", Folio from the Davis Album"
+            },
+            {
+                "from": "human",
+                "value": " When was the art created?"
+            },
+            {
+                "from": "gpt",
+                "value": " Late 17th century"
+            },
+            {
+                "from": "human",
+                "value": " What materials were used to create the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink, opaque watercolor, and gold on paper"
+            },
+            {
+                "from": "human",
+                "value": " What are the dimensions of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Page: 13 1/8 in. (33.3 cm) x 8 1/4 in. ( 21 cm)\\r"
+            }
+        ]
+    },
+    {
+        "id": "453479",
+        "image": "453479.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the type and title of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Folio from a non-illustrated manuscript titled \"Page from a Persian Epic Poem (Masnavi)\""
+            },
+            {
+                "from": "human",
+                "value": " What materials and dimensions were used to create the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink, opaque watercolor, and gold on paper; Height: 12 3/4 in. (32.4 cm), Width: 7 1/2 in. (19.1 cm)"
+            },
+            {
+                "from": "human",
+                "value": " What is the unique feature of the script used in the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Most unusually, every other horizontal segment of the script is upside down, requiring the manuscript to be turned sideways to read both lines at once."
+            },
+            {
+                "from": "human",
+                "value": " What is the subject matter of the epic poem from which the folio was removed?"
+            },
+            {
+                "from": "gpt",
+                "value": " The epic poem is about hopelessness concerning fate, as evident from the segment's title \"Concerning Hopelessness [when it comes to] Fate.\""
+            }
+        ]
+    },
+    {
+        "id": "452813",
+        "image": "452813.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the title of the art piece?"
+            },
+            {
+                "from": "gpt",
+                "value": " Flower-Style Box with Drawers"
+            },
+            {
+                "from": "human",
+                "value": " What material is the art piece made of?"
+            },
+            {
+                "from": "gpt",
+                "value": " Wood (poplar); overlaid with ebony inlaid with wood and incised, stained ivory"
+            },
+            {
+                "from": "human",
+                "value": " What design elements are featured in the art piece?"
+            },
+            {
+                "from": "gpt",
+                "value": " Rows of graceful flowering plants, coiled cloud bands, and flying birds"
+            },
+            {
+                "from": "human",
+                "value": " Why are there iron handles on the art piece?"
+            },
+            {
+                "from": "gpt",
+                "value": " The iron handles indicate that the box was used as a traveling chest"
+            }
+        ]
+    },
+    {
+        "id": "453135",
+        "image": "453135.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the title of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " \"The Parent Bird Blinds the Prince in Revenge for the Death of her Young One\", Folio from a Kalila wa Dimna"
+            },
+            {
+                "from": "human",
+                "value": " In what century was the artwork created?"
+            },
+            {
+                "from": "gpt",
+                "value": " second quarter 16th century"
+            },
+            {
+                "from": "human",
+                "value": " What is the medium and dimensions of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Medium: Ink and opaque watercolor on paper, Dimensions: Overall: H. 12 1/2 in. (31.8 cm), W. 8 7/8 in. (22.6 cm)"
+            },
+            {
+                "from": "human",
+                "value": " What is the literary source that inspired the manuscript?"
+            },
+            {
+                "from": "gpt",
+                "value": " Panchatantra, written by Vidyapati (Bidpai)"
+            }
+        ]
+    },
+    {
+        "id": "447302",
+        "image": "447302.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the object?"
+            },
+            {
+                "from": "gpt",
+                "value": " Folio from an illustrated manuscript"
+            },
+            {
+                "from": "human",
+                "value": " Who is the artist of the piece?"
+            },
+            {
+                "from": "gpt",
+                "value": " Abu'l Qasim Firdausi"
+            },
+            {
+                "from": "human",
+                "value": " What is the medium used in the creation of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink, opaque watercolor, and gold on paper"
+            },
+            {
+                "from": "human",
+                "value": " What event is depicted in the illustrated manuscript?"
+            },
+            {
+                "from": "gpt",
+                "value": " Kai Khusrau, Gudarz, and Giv capturing the Demon's Fortress, Bahman"
+            }
+        ]
+    },
+    {
+        "id": "451257",
+        "image": "451257.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " Who is the artist of the album leaf?"
+            },
+            {
+                "from": "gpt",
+                "value": " Bichitr"
+            },
+            {
+                "from": "human",
+                "value": " What is the title of the album leaf?"
+            },
+            {
+                "from": "gpt",
+                "value": " \"Portrait of Raja Bikramajit (Sundar Das)\", Folio from the Shah Jahan Album"
+            },
+            {
+                "from": "human",
+                "value": " When was the recto of the album leaf made?"
+            },
+            {
+                "from": "gpt",
+                "value": " ca. 1620"
+            },
+            {
+                "from": "human",
+                "value": " What medium was used to create the album leaf?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink, opaque watercolor, and gold on paper"
+            }
+        ]
+    },
+    {
+        "id": "453143",
+        "image": "453143.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the title of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " \"The Discredited Ascetic Being Paraded Through the Town on a Donkey\", Folio from a Kalila wa Dimna"
+            },
+            {
+                "from": "human",
+                "value": " What medium was used to create the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink and opaque watercolor on paper"
+            },
+            {
+                "from": "human",
+                "value": " From what century does the artwork date?"
+            },
+            {
+                "from": "gpt",
+                "value": " Second quarter 16th century"
+            },
+            {
+                "from": "human",
+                "value": " Where is it suggested that the manuscript may have been copied from?"
+            },
+            {
+                "from": "gpt",
+                "value": " Egypt"
+            }
+        ]
+    },
+    {
+        "id": "444674",
+        "image": "444674.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the primary purpose of armlets in Indian culture?"
+            },
+            {
+                "from": "gpt",
+                "value": " An important element in the suite of jewels worn in India."
+            },
+            {
+                "from": "human",
+                "value": " What are some of the unique features of this particular armlet?"
+            },
+            {
+                "from": "gpt",
+                "value": " Bells serving as pendants, resulting in both visual and auditory appeal."
+            },
+            {
+                "from": "human",
+                "value": " What is the material used to create this armlet?"
+            },
+            {
+                "from": "gpt",
+                "value": " Silver"
+            },
+            {
+                "from": "human",
+                "value": " What possible purpose do the small boxes on the armlet serve?"
+            },
+            {
+                "from": "gpt",
+                "value": " They resemble amulet boxes, suggesting a talismanic function for the wearer."
+            }
+        ]
+    },
+    {
+        "id": "446773",
+        "image": "446773.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Head Ornament"
+            },
+            {
+                "from": "human",
+                "value": " From what century is the art from?"
+            },
+            {
+                "from": "gpt",
+                "value": " 19th century"
+            },
+            {
+                "from": "human",
+                "value": " What materials is the art made from?"
+            },
+            {
+                "from": "gpt",
+                "value": " Gold, glass, and turquoise"
+            },
+            {
+                "from": "human",
+                "value": " Where was the art formerly located?"
+            },
+            {
+                "from": "gpt",
+                "value": " In the collection of American artist and designer Lockwood de Forest"
+            }
+        ]
+    },
+    {
+        "id": "453983",
+        "image": "453983.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Panel of Nasta'liq Calligraphy"
+            },
+            {
+                "from": "human",
+                "value": " Who created the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Sayyid Amir 'Ali"
+            },
+            {
+                "from": "human",
+                "value": " When was the art created?"
+            },
+            {
+                "from": "gpt",
+                "value": " mid-17th century"
+            },
+            {
+                "from": "human",
+                "value": " What materials were used to create the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Black ink on marbled paper"
+            }
+        ]
+    },
+    {
+        "id": "659905",
+        "image": "659905.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " Who designed the Cutout?"
+            },
+            {
+                "from": "gpt",
+                "value": " Lockwood de Forest"
+            },
+            {
+                "from": "human",
+                "value": " When was the Cutout created?"
+            },
+            {
+                "from": "gpt",
+                "value": " ca. 1892"
+            },
+            {
+                "from": "human",
+                "value": " What inspired the design of the Cutout?"
+            },
+            {
+                "from": "gpt",
+                "value": " Indian arts and crafts, specifically examples found in wood, plaster, and stone in Indian architecture"
+            },
+            {
+                "from": "human",
+                "value": " What was the intended use of the Cutout?"
+            },
+            {
+                "from": "gpt",
+                "value": " As ornament on architecture or furniture"
+            }
+        ]
+    },
+    {
+        "id": "446635",
+        "image": "446635.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What type of object is being described?"
+            },
+            {
+                "from": "gpt",
+                "value": " Carpet"
+            },
+            {
+                "from": "human",
+                "value": " What is the title of the carpet?"
+            },
+            {
+                "from": "gpt",
+                "value": " '\"Millefleur\" Carpet'"
+            },
+            {
+                "from": "human",
+                "value": " When was the carpet likely produced?"
+            },
+            {
+                "from": "gpt",
+                "value": " Probably 18th century"
+            },
+            {
+                "from": "human",
+                "value": " What materials were used to create the carpet?"
+            },
+            {
+                "from": "gpt",
+                "value": " Cotton (warp and weft), wool (pile)"
+            }
+        ]
+    },
+    {
+        "id": "451270",
+        "image": "451270.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " Who is the artist of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Chitarman"
+            },
+            {
+                "from": "human",
+                "value": " What is the medium used in the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink, opaque watercolor, and gold on paper"
+            },
+            {
+                "from": "human",
+                "value": " What is the time period of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Recto: Dated 1627\u201328; Verso: Ca. 1530\u201350"
+            },
+            {
+                "from": "human",
+                "value": " What is the subject matter of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Emperor Shah Jahan standing on a terrace, holding a pendant with his portrait"
+            }
+        ]
+    },
+    {
+        "id": "500757",
+        "image": "500757.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Rankinkan"
+            },
+            {
+                "from": "human",
+                "value": " What type of instrument is the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Idiophone-Shaken-crotal bell"
+            },
+            {
+                "from": "human",
+                "value": " What is the main material used to create the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Iron"
+            },
+            {
+                "from": "human",
+                "value": " What is the approximate diameter of the bell's frame?"
+            },
+            {
+                "from": "gpt",
+                "value": " 25.4 cm (10 in.)"
+            }
+        ]
+    },
+    {
+        "id": "454601",
+        "image": "454601.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art piece?"
+            },
+            {
+                "from": "gpt",
+                "value": " Base for a Water Pipe (Huqqa) with Poetry and Flowers"
+            },
+            {
+                "from": "human",
+                "value": " When was the art piece created?"
+            },
+            {
+                "from": "gpt",
+                "value": " early 18th century"
+            },
+            {
+                "from": "human",
+                "value": " What is the medium used in the art piece?"
+            },
+            {
+                "from": "gpt",
+                "value": " Zinc alloy; cast, engraved, inlaid with silver and brass (bidri ware)"
+            },
+            {
+                "from": "human",
+                "value": " What is unique about the decoration on the art piece?"
+            },
+            {
+                "from": "gpt",
+                "value": " The inlaid brass and silver decoration includes Persian verses praising tobacco in nasta\u2018liq script, making it an unusual piece with inlaid calligraphy in bidri ware."
+            }
+        ]
+    },
+    {
+        "id": "446731",
+        "image": "446731.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What type of object is described in the text?"
+            },
+            {
+                "from": "gpt",
+                "value": " Bracelet"
+            },
+            {
+                "from": "human",
+                "value": " When was the bracelet made?"
+            },
+            {
+                "from": "gpt",
+                "value": " 19th century"
+            },
+            {
+                "from": "human",
+                "value": " What material is the bracelet made from?"
+            },
+            {
+                "from": "gpt",
+                "value": " Gold"
+            },
+            {
+                "from": "human",
+                "value": " What unique feature does the bracelet possess?"
+            },
+            {
+                "from": "gpt",
+                "value": " It has two facing makara or dragon heads that serve as its clasp and jingle when the bracelet is moved."
+            }
+        ]
+    },
+    {
+        "id": "444854",
+        "image": "444854.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art artifact?"
+            },
+            {
+                "from": "gpt",
+                "value": " Portrait Coin of the Emperor Jahangir"
+            },
+            {
+                "from": "human",
+                "value": " When was the coin issued?"
+            },
+            {
+                "from": "gpt",
+                "value": " 1023 AH/1614 CE"
+            },
+            {
+                "from": "human",
+                "value": " What material was used to make the coin?"
+            },
+            {
+                "from": "gpt",
+                "value": " Gold"
+            },
+            {
+                "from": "human",
+                "value": " Who issued the coin?"
+            },
+            {
+                "from": "gpt",
+                "value": " Emperor Jahangir"
+            }
+        ]
+    },
+    {
+        "id": "838357",
+        "image": "838357.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art piece?"
+            },
+            {
+                "from": "gpt",
+                "value": " Shawl"
+            },
+            {
+                "from": "human",
+                "value": " To what century does the Shawl belong?"
+            },
+            {
+                "from": "gpt",
+                "value": " 19th century"
+            },
+            {
+                "from": "human",
+                "value": " What material is used to make the Shawl?"
+            },
+            {
+                "from": "gpt",
+                "value": " Wool"
+            },
+            {
+                "from": "human",
+                "value": " What influenced the popularity of shawls in Europe?"
+            },
+            {
+                "from": "gpt",
+                "value": " The sophisticated male dress of the Mughal court and the fashion trends of the \"Empire\" era."
+            }
+        ]
+    },
+    {
+        "id": "456968",
+        "image": "456968.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " A Nobleman Reading"
+            },
+            {
+                "from": "human",
+                "value": " What is the medium of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Opaque watercolor on paper"
+            },
+            {
+                "from": "human",
+                "value": " What is the size of the painting without the frame?"
+            },
+            {
+                "from": "gpt",
+                "value": " H. 8 11/16 in. (22 cm) x W. 6 1/2 in. (16.5 cm)"
+            },
+            {
+                "from": "human",
+                "value": " What is the classification of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Codices"
+            }
+        ]
+    },
+    {
+        "id": "457788",
+        "image": "457788.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What type of art is this?"
+            },
+            {
+                "from": "gpt",
+                "value": " Painting"
+            },
+            {
+                "from": "human",
+                "value": " What is the title of the painting?"
+            },
+            {
+                "from": "gpt",
+                "value": " Cactus Plant in Flower"
+            },
+            {
+                "from": "human",
+                "value": " In what year was the painting created?"
+            },
+            {
+                "from": "gpt",
+                "value": " ca. 1800"
+            },
+            {
+                "from": "human",
+                "value": " Where is the painting likely from?"
+            },
+            {
+                "from": "gpt",
+                "value": " probably Calcutta"
+            }
+        ]
+    },
+    {
+        "id": "453367",
+        "image": "453367.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Portrait of the Elephant 'Alam Guman"
+            },
+            {
+                "from": "human",
+                "value": " Who is the artist of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Bichitr"
+            },
+            {
+                "from": "human",
+                "value": " What are the materials used to create the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Opaque watercolor and gold on paper"
+            },
+            {
+                "from": "human",
+                "value": " What was the purpose of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " To record the treasures of the Indian court, specifically the elephant 'Alam Guman, one of the prized possessions of the Mughal emperor Jahangir."
+            }
+        ]
+    },
+    {
+        "id": "453058",
+        "image": "453058.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What type of object is this?"
+            },
+            {
+                "from": "gpt",
+                "value": " Folio from an illustrated manuscript"
+            },
+            {
+                "from": "human",
+                "value": " What is the title of the manuscript?"
+            },
+            {
+                "from": "gpt",
+                "value": " Opening Page from a Kalila wa Dimna"
+            },
+            {
+                "from": "human",
+                "value": " When was the manuscript created?"
+            },
+            {
+                "from": "gpt",
+                "value": " Second quarter 16th century"
+            },
+            {
+                "from": "human",
+                "value": " What is the primary medium used in the manuscript?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink and opaque watercolor on paper"
+            }
+        ]
+    },
+    {
+        "id": "456928",
+        "image": "456928.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Nobleman on a Terrace"
+            },
+            {
+                "from": "human",
+                "value": " When was the art created?"
+            },
+            {
+                "from": "gpt",
+                "value": " ca. 1780"
+            },
+            {
+                "from": "human",
+                "value": " What materials were used to create the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink, opaque watercolor, silver, and gold on paper"
+            },
+            {
+                "from": "human",
+                "value": " Where was the art created?"
+            },
+            {
+                "from": "gpt",
+                "value": " Murshidabad"
+            }
+        ]
+    },
+    {
+        "id": "447297",
+        "image": "447297.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the title of this artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " \"Rustam Seizes Afrasiyab by the Girdle and Lifts him from the Saddle\", Folio from a Shahnama (Book of Kings)"
+            },
+            {
+                "from": "human",
+                "value": " Who is the artist responsible for creating this piece?"
+            },
+            {
+                "from": "gpt",
+                "value": " Abu'l Qasim Firdausi"
+            },
+            {
+                "from": "human",
+                "value": " What materials were used to craft this artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink, opaque watercolor, gold on paper, and ink and gold on dyed paper"
+            },
+            {
+                "from": "human",
+                "value": " What is the approximate size of this artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " 7 1/2 in. (19.1 cm) x 7 5/8 in. (19.4 cm)"
+            }
+        ]
+    },
+    {
+        "id": "453114",
+        "image": "453114.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What type of object is this?"
+            },
+            {
+                "from": "gpt",
+                "value": " Folio from an illustrated manuscript"
+            },
+            {
+                "from": "human",
+                "value": " What does the artwork depict?"
+            },
+            {
+                "from": "gpt",
+                "value": " A story from the Kalila was Dimna"
+            },
+            {
+                "from": "human",
+                "value": " When was the artwork created?"
+            },
+            {
+                "from": "gpt",
+                "value": " Second quarter 16th century"
+            },
+            {
+                "from": "human",
+                "value": " What are the main materials used in the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink and opaque watercolor on paper"
+            }
+        ]
+    },
+    {
+        "id": "503554",
+        "image": "503554.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Sarangi"
+            },
+            {
+                "from": "human",
+                "value": " When was the art created?"
+            },
+            {
+                "from": "gpt",
+                "value": " ca. 1865"
+            },
+            {
+                "from": "human",
+                "value": " What materials were used to make the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Wood, parchment, ivory, gut, and metal"
+            },
+            {
+                "from": "human",
+                "value": " What type of musical instrument is the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Chordophone-Lute-bowed-unfretted"
+            }
+        ]
+    },
+    {
+        "id": "451010",
+        "image": "451010.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the medium of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Leather and papier-mach\u00e9; painted, gilded, and lacquered."
+            },
+            {
+                "from": "human",
+                "value": " What is the significance of the bookbinding?"
+            },
+            {
+                "from": "gpt",
+                "value": " It is a rare example surviving from the Akbar period."
+            },
+            {
+                "from": "human",
+                "value": " What does the art depict?"
+            },
+            {
+                "from": "gpt",
+                "value": " Predators chasing and attacking prey."
+            },
+            {
+                "from": "human",
+                "value": " What is the interior of the art decorated with?"
+            },
+            {
+                "from": "gpt",
+                "value": " Green and gold cartouches."
+            }
+        ]
+    },
+    {
+        "id": "662008",
+        "image": "662008.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art object?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ewer"
+            },
+            {
+                "from": "human",
+                "value": " In what century was the art object created?"
+            },
+            {
+                "from": "gpt",
+                "value": " 17th century"
+            },
+            {
+                "from": "human",
+                "value": " What is the medium of the art object?"
+            },
+            {
+                "from": "gpt",
+                "value": " Chased and worked copper alloy"
+            },
+            {
+                "from": "human",
+                "value": " What specific religious inscriptions are found on the art object?"
+            },
+            {
+                "from": "gpt",
+                "value": " Qur'anic verses and the names of the Shi'a Imams"
+            }
+        ]
+    },
+    {
+        "id": "453068",
+        "image": "453068.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the object described?"
+            },
+            {
+                "from": "gpt",
+                "value": " Folio from an illustrated manuscript"
+            },
+            {
+                "from": "human",
+                "value": " What is the subject matter of the manuscript?"
+            },
+            {
+                "from": "gpt",
+                "value": " Tales of the jackals Kalila and Dimna"
+            },
+            {
+                "from": "human",
+                "value": " What is believed to be the origin of the manuscript?"
+            },
+            {
+                "from": "gpt",
+                "value": " Sultanate Gujarat, copied from an Egyptian original"
+            },
+            {
+                "from": "human",
+                "value": " What is the script used in the manuscript?"
+            },
+            {
+                "from": "gpt",
+                "value": " A strong, left-leaning naskh-like script"
+            }
+        ]
+    },
+    {
+        "id": "453127",
+        "image": "453127.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the title of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " \"The Deposed Monkey King Drops Figs for the Tortoise and the Two Become Friends\", Folio from a Kalila wa Dimna'"
+            },
+            {
+                "from": "human",
+                "value": " When was the art created?"
+            },
+            {
+                "from": "gpt",
+                "value": " Second quarter of the 16th century"
+            },
+            {
+                "from": "human",
+                "value": " What materials were used to create the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink and opaque watercolor on paper"
+            },
+            {
+                "from": "human",
+                "value": " What is the classification of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Codices"
+            }
+        ]
+    },
+    {
+        "id": "453146",
+        "image": "453146.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Page of Calligraphy from a Kalila wa Dimna"
+            },
+            {
+                "from": "human",
+                "value": " When was the artwork created?"
+            },
+            {
+                "from": "gpt",
+                "value": " Second quarter 16th century"
+            },
+            {
+                "from": "human",
+                "value": " What is the medium used in the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink and opaque watercolor on paper"
+            },
+            {
+                "from": "human",
+                "value": " What is the style and origin of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Mamluk Egyptian style, with hints of Ottoman tulips and Safavid turbans; possibly copied from an Egyptian original in Sultanate Gujarat"
+            }
+        ]
+    },
+    {
+        "id": "453335",
+        "image": "453335.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art piece?"
+            },
+            {
+                "from": "gpt",
+                "value": " Pilgrim Flask"
+            },
+            {
+                "from": "human",
+                "value": " When was the Pilgrim Flask created?"
+            },
+            {
+                "from": "gpt",
+                "value": " Early 17th century"
+            },
+            {
+                "from": "human",
+                "value": " What is the flask made of?"
+            },
+            {
+                "from": "gpt",
+                "value": " Brass (cast)"
+            },
+            {
+                "from": "human",
+                "value": " How was the flask possibly used?"
+            },
+            {
+                "from": "gpt",
+                "value": " For suspension, as suggested by the four metal rings."
+            }
+        ]
+    },
+    {
+        "id": "453090",
+        "image": "453090.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Folio from an illustrated manuscript"
+            },
+            {
+                "from": "human",
+                "value": " What type of object is it?"
+            },
+            {
+                "from": "gpt",
+                "value": " Manuscript"
+            },
+            {
+                "from": "human",
+                "value": " What is the subject matter of the manuscript?"
+            },
+            {
+                "from": "gpt",
+                "value": " Tales of the jackals Kalila and Dimna"
+            },
+            {
+                "from": "human",
+                "value": " What is the origin of the stories in the manuscript?"
+            },
+            {
+                "from": "gpt",
+                "value": " The Panchatantra, written by Vidyapati (Bidpai) in ancient India"
+            }
+        ]
+    },
+    {
+        "id": "453348",
+        "image": "453348.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the title of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Page of Calligraphy"
+            },
+            {
+                "from": "human",
+                "value": " Who is the artist?"
+            },
+            {
+                "from": "gpt",
+                "value": " Muhammad Husayn al-Katib"
+            },
+            {
+                "from": "human",
+                "value": " What materials were used to create the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink, opaque watercolor, and gold on paper"
+            },
+            {
+                "from": "human",
+                "value": " What is the size of the artwork, including the frame?"
+            },
+            {
+                "from": "gpt",
+                "value": " H. 21 3/4 in. (55.2 cm) x W. 16 3/4 in. (42.5 cm) x D. 3/4 in. (1.9 cm)"
+            }
+        ]
+    },
+    {
+        "id": "453140",
+        "image": "453140.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the title of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Page of Calligraphy from a Kalila wa Dimna"
+            },
+            {
+                "from": "human",
+                "value": " What is the medium used in the creation of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink and opaque watercolor on paper"
+            },
+            {
+                "from": "human",
+                "value": " When was the art created?"
+            },
+            {
+                "from": "gpt",
+                "value": " Second quarter 16th century"
+            },
+            {
+                "from": "human",
+                "value": " What is the cultural origin of the manuscript's tales?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ancient Indian animal fables (Panchatantra)"
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "messages": [
+      {
+        "content": [
+          {
+            "index": {
+              "dtype": "int64",
+              "_type": "Value"
+            },
+            "text": {
+              "dtype": "string",
+              "_type": "Value"
+            },
+            "type": {
+              "dtype": "string",
+              "_type": "Value"
+            }
+          }
+        ],
+        "role": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      }
+    ],
+    "images": [
+      {
+        "bytes": {
+          "dtype": "binary",
+          "_type": "Value"
+        },
+        "path": {
+          "dtype": "null",
+          "_type": "Value"
+        }
+      }
+    ]
+  },
+  "homepage": "",
+  "license": ""
+}

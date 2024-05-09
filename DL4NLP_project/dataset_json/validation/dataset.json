@@ -1,0 +1,762 @@
+[
+    {
+        "id": "447086",
+        "image": "447086.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Finial in the Form of a Parrot"
+            },
+            {
+                "from": "human",
+                "value": " In what century was the artwork created?"
+            },
+            {
+                "from": "gpt",
+                "value": " 17th\u201318th century"
+            },
+            {
+                "from": "human",
+                "value": " What does the simplicity of style and informal subject choice suggest about the artwork's origin?"
+            },
+            {
+                "from": "gpt",
+                "value": " It suggests that the piece likely belonged to a provincial court setting rather than an imperial one."
+            },
+            {
+                "from": "human",
+                "value": " In what medium was the artwork created?"
+            },
+            {
+                "from": "gpt",
+                "value": " Brass"
+            }
+        ]
+    },
+    {
+        "id": "456964",
+        "image": "456964.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the title of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Qur'an Manuscript"
+            },
+            {
+                "from": "human",
+                "value": " When was the art created?"
+            },
+            {
+                "from": "gpt",
+                "value": " Late 18th\u2013early 19th century"
+            },
+            {
+                "from": "human",
+                "value": " What is the medium used to create the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink, gold, and lapis on paper; leather binding"
+            },
+            {
+                "from": "human",
+                "value": " What is the style of illumination used in the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Blue and gold palette characteristic of Kashmiri production"
+            }
+        ]
+    },
+    {
+        "id": "445246",
+        "image": "445246.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the object's name?"
+            },
+            {
+                "from": "gpt",
+                "value": " Panel"
+            },
+            {
+                "from": "human",
+                "value": " When was the art created?"
+            },
+            {
+                "from": "gpt",
+                "value": " Early 17th century"
+            },
+            {
+                "from": "human",
+                "value": " What material is the art made of?"
+            },
+            {
+                "from": "gpt",
+                "value": " Cotton, tasar silk, plain weave, embroidered."
+            },
+            {
+                "from": "human",
+                "value": " What is the art typically used for?"
+            },
+            {
+                "from": "gpt",
+                "value": " The art was likely used as a decoration for a mantle or an apron."
+            }
+        ]
+    },
+    {
+        "id": "451283",
+        "image": "451283.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " Who is depicted in the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " The future emperor Shah Jahan and his son Dara Shikoh."
+            },
+            {
+                "from": "human",
+                "value": " When was the art created?"
+            },
+            {
+                "from": "gpt",
+                "value": " Verso: ca. 1620; recto: ca. 1530\u201350."
+            },
+            {
+                "from": "human",
+                "value": " What medium was used to create the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink, opaque watercolor, and gold on paper."
+            },
+            {
+                "from": "human",
+                "value": " What is the classification of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Codices."
+            }
+        ]
+    },
+    {
+        "id": "446750",
+        "image": "446750.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Necklace"
+            },
+            {
+                "from": "human",
+                "value": " What is the necklace made of?"
+            },
+            {
+                "from": "gpt",
+                "value": " Gold, emeralds, spinels, pearls"
+            },
+            {
+                "from": "human",
+                "value": " What is the approximate date of the necklace?"
+            },
+            {
+                "from": "gpt",
+                "value": " 18th\u201319th century"
+            },
+            {
+                "from": "human",
+                "value": " What is the significance of the necklace?"
+            },
+            {
+                "from": "gpt",
+                "value": " It is a kaliganthi, a necklace given to a bride on her wedding day by her in-laws."
+            }
+        ]
+    },
+    {
+        "id": "502149",
+        "image": "502149.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What type of instrument is the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Sitar"
+            },
+            {
+                "from": "human",
+                "value": " When was the Sitar created?"
+            },
+            {
+                "from": "gpt",
+                "value": " Late 19th century"
+            },
+            {
+                "from": "human",
+                "value": " What materials are used to make the Sitar?"
+            },
+            {
+                "from": "gpt",
+                "value": " Gourd, wood, ivory, and metal"
+            },
+            {
+                "from": "human",
+                "value": " What is the size of the Sitar?"
+            },
+            {
+                "from": "gpt",
+                "value": " 51 \u00d7 12 in. (129.5 \u00d7 30.5 cm)"
+            }
+        ]
+    },
+    {
+        "id": "453136",
+        "image": "453136.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What does the art depict?"
+            },
+            {
+                "from": "gpt",
+                "value": " A page of calligraphy from a Kalila wa Dimna manuscript."
+            },
+            {
+                "from": "human",
+                "value": " When was the art created?"
+            },
+            {
+                "from": "gpt",
+                "value": " Second quarter of the 16th century."
+            },
+            {
+                "from": "human",
+                "value": " What materials were used to create the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink and opaque watercolor on paper."
+            },
+            {
+                "from": "human",
+                "value": " What is the style of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Mamluk Egypt, with hints of Ottoman and Safavid influences."
+            }
+        ]
+    },
+    {
+        "id": "451276",
+        "image": "451276.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the album in which this page is found?"
+            },
+            {
+                "from": "gpt",
+                "value": " Shah Jahan Album"
+            },
+            {
+                "from": "human",
+                "value": " Who created this artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Manohar"
+            },
+            {
+                "from": "human",
+                "value": " When was the artwork created?"
+            },
+            {
+                "from": "gpt",
+                "value": " Recto: ca. 1610; Verso: ca. 1530\u201340"
+            },
+            {
+                "from": "human",
+                "value": " What medium was used to create this artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink, opaque watercolor, and gold on paper"
+            }
+        ]
+    },
+    {
+        "id": "446706",
+        "image": "446706.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What type of adornment is described in the text?"
+            },
+            {
+                "from": "gpt",
+                "value": " Anklet"
+            },
+            {
+                "from": "human",
+                "value": " When was the anklet likely made?"
+            },
+            {
+                "from": "gpt",
+                "value": " 19th century"
+            },
+            {
+                "from": "human",
+                "value": " What material was used to craft the anklet?"
+            },
+            {
+                "from": "gpt",
+                "value": " Silver"
+            },
+            {
+                "from": "human",
+                "value": " What was the purpose of the attached chain and balls on the anklet?"
+            },
+            {
+                "from": "gpt",
+                "value": " To create a musical noise as the wearer moved"
+            }
+        ]
+    },
+    {
+        "id": "444859",
+        "image": "444859.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art object described in the text?"
+            },
+            {
+                "from": "gpt",
+                "value": " Coin"
+            },
+            {
+                "from": "human",
+                "value": " When was the coin produced?"
+            },
+            {
+                "from": "gpt",
+                "value": " Dated 1028 AH/1619 CE"
+            },
+            {
+                "from": "human",
+                "value": " What is the material used to create the coin?"
+            },
+            {
+                "from": "gpt",
+                "value": " Gold"
+            },
+            {
+                "from": "human",
+                "value": " What is the motif depicted on the coin?"
+            },
+            {
+                "from": "gpt",
+                "value": " Signs of the zodiac"
+            }
+        ]
+    },
+    {
+        "id": "446755",
+        "image": "446755.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Necklace with Filigree and Beads"
+            },
+            {
+                "from": "human",
+                "value": " To what period does the necklace belong?"
+            },
+            {
+                "from": "gpt",
+                "value": " late 18th\u2013early 19th century"
+            },
+            {
+                "from": "human",
+                "value": " What is the necklace made of?"
+            },
+            {
+                "from": "gpt",
+                "value": " Gold"
+            },
+            {
+                "from": "human",
+                "value": " Describe the central pendant of the necklace."
+            },
+            {
+                "from": "gpt",
+                "value": " The large fan-shaped pendant is decorated with flowers and scrolling motifs in gold, bordered by twelve finely filigreed amulets on either side, with clusters of small gold beads hanging below each."
+            }
+        ]
+    },
+    {
+        "id": "453354",
+        "image": "453354.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " Who is the artist of the painting?"
+            },
+            {
+                "from": "gpt",
+                "value": " Shaikh Muhammad Amir of Karraya"
+            },
+            {
+                "from": "human",
+                "value": " What is the medium used in creating the painting?"
+            },
+            {
+                "from": "gpt",
+                "value": " Opaque watercolor on paper"
+            },
+            {
+                "from": "human",
+                "value": " In what year was the painting created?"
+            },
+            {
+                "from": "gpt",
+                "value": " ca. 1845"
+            },
+            {
+                "from": "human",
+                "value": " What is the subject matter of the painting?"
+            },
+            {
+                "from": "gpt",
+                "value": " A syce, or groom, symmetrically flanked by almost identical horses"
+            }
+        ]
+    },
+    {
+        "id": "453075",
+        "image": "453075.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the title of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Page of Calligraphy from a Kalila wa Dimna"
+            },
+            {
+                "from": "human",
+                "value": " When was the artwork created?"
+            },
+            {
+                "from": "gpt",
+                "value": " Second quarter 16th century"
+            },
+            {
+                "from": "human",
+                "value": " What is the medium of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink and opaque watercolor on paper"
+            },
+            {
+                "from": "human",
+                "value": " What is the classification of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Codices"
+            }
+        ]
+    },
+    {
+        "id": "457730",
+        "image": "457730.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Dagger with Zoomorphic Hilt"
+            },
+            {
+                "from": "human",
+                "value": " When was the art created?"
+            },
+            {
+                "from": "gpt",
+                "value": " Second half of the 16th century"
+            },
+            {
+                "from": "human",
+                "value": " What materials were used to make the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Hilt: copper; cast, chased, gilded, and inlaid with rubies. Blade: steel; forged"
+            },
+            {
+                "from": "human",
+                "value": " What cultural symbols are combined in the art's design?"
+            },
+            {
+                "from": "gpt",
+                "value": " Persian and Indian symbols of power"
+            }
+        ]
+    },
+    {
+        "id": "501899",
+        "image": "501899.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What type of instrument is the Karn\u0101?"
+            },
+            {
+                "from": "gpt",
+                "value": " Trumpet"
+            },
+            {
+                "from": "human",
+                "value": " When was the Karn\u0101 made?"
+            },
+            {
+                "from": "gpt",
+                "value": " Late 19th century"
+            },
+            {
+                "from": "human",
+                "value": " What material is the Karn\u0101 made of?"
+            },
+            {
+                "from": "gpt",
+                "value": " Brass"
+            },
+            {
+                "from": "human",
+                "value": " What is the diameter of the Karn\u0101's bell?"
+            },
+            {
+                "from": "gpt",
+                "value": " 5 1/2 in. (14 cm)"
+            }
+        ]
+    },
+    {
+        "id": "503937",
+        "image": "503937.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Sursanga"
+            },
+            {
+                "from": "human",
+                "value": " When was the art created?"
+            },
+            {
+                "from": "gpt",
+                "value": " 19th century"
+            },
+            {
+                "from": "human",
+                "value": " What materials were used to create the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Wood, pearl, ivory"
+            },
+            {
+                "from": "human",
+                "value": " What is the unique feature of the art that distinguishes it from other musical instruments?"
+            },
+            {
+                "from": "gpt",
+                "value": " It combines both Ganesha and Sarasvati in its design and has a thin wooden face plate and metal strings."
+            }
+        ]
+    },
+    {
+        "id": "457019",
+        "image": "457019.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Engraved Bowl"
+            },
+            {
+                "from": "human",
+                "value": " When was the art created?"
+            },
+            {
+                "from": "gpt",
+                "value": " Early 17th century"
+            },
+            {
+                "from": "human",
+                "value": " What is the medium of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Copper; cast, engraved, tinned, and inlaid with a black compound"
+            },
+            {
+                "from": "human",
+                "value": " What is the classification of the art?"
+            },
+            {
+                "from": "gpt",
+                "value": " Metal"
+            }
+        ]
+    },
+    {
+        "id": "453053",
+        "image": "453053.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the title of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Dedicatory Inscription from a Mosque"
+            },
+            {
+                "from": "human",
+                "value": " In what year was the artwork created?"
+            },
+            {
+                "from": "gpt",
+                "value": " 1500 CE"
+            },
+            {
+                "from": "human",
+                "value": " What is the medium used for the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Gabbro (a type of stone)"
+            },
+            {
+                "from": "human",
+                "value": " What is the significance of the inscription's script?"
+            },
+            {
+                "from": "gpt",
+                "value": " It is in \"tughra\" script, which is an elaborate style of Arabic calligraphy, and is an outstanding example of Indo-Muslim epigraphy."
+            }
+        ]
+    },
+    {
+        "id": "448484",
+        "image": "448484.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What is the name of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " \"Women Feasting on a Balcony\", Folio from the Davis Album"
+            },
+            {
+                "from": "human",
+                "value": " When was the artwork created?"
+            },
+            {
+                "from": "gpt",
+                "value": " Late 17th\u2013early 18th century"
+            },
+            {
+                "from": "human",
+                "value": " What materials were used to create the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink, opaque watercolor, and gold on paper"
+            },
+            {
+                "from": "human",
+                "value": " What is the style of the artwork described as?"
+            },
+            {
+                "from": "gpt",
+                "value": " A romantic phase of the Mughal style"
+            }
+        ]
+    },
+    {
+        "id": "453132",
+        "image": "453132.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " What type of artwork is it?"
+            },
+            {
+                "from": "gpt",
+                "value": " Folio from an illustrated manuscript"
+            },
+            {
+                "from": "human",
+                "value": " What is the title of the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " \"The Ascetic Finds his Son Alive in his Crib\", Folio from a Kalila wa Dimna"
+            },
+            {
+                "from": "human",
+                "value": " When was the artwork created?"
+            },
+            {
+                "from": "gpt",
+                "value": " second quarter 16th century"
+            },
+            {
+                "from": "human",
+                "value": " What is the medium used in the artwork?"
+            },
+            {
+                "from": "gpt",
+                "value": " Ink and opaque watercolor on paper"
+            }
+        ]
+    }
+]
